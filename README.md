@@ -147,7 +147,8 @@ Learning based (including 2D outlier rejection methods)
 - COTReg: Coupled Optimal Transport based Point Cloud Registration. arxiv'2021 [[paper]](https://arxiv.org/pdf/2112.14381.pdf)
 - DetarNet: Decoupling Translation and Rotation by Siamese Network for Point Cloud Registration. AAAI'2022 [[paper]](https://arxiv.org/pdf/2112.14059.pdf) [[code]](https://github.com/ZhiChen902/DetarNet)
 - Multi-instance Point Cloud Registration by Efficient Correspondence Clustering. CVPR'2022 [[paper]](https://arxiv.org/pdf/2111.14582.pdf) [[code]](https://github.com/SJTU-ViSYS/multi-instant-reg)
-
+- Deep Graph-based Spatial Consistency for Robust Non-rigid. CVPr'2023
+Point Cloud Registration
 Survey
 - A Performance Evaluation of Correspondence Grouping Methods for 3D Rigid Data Matching. TPAMI'2019 [[paper]](http://arxiv.org/pdf/1907.02890)
 
